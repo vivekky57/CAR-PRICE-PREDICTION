@@ -1,4 +1,4 @@
-# CAR PRICE Prediction: 
+# CAR PRICE PREDICTION: 
 
 ## Table of Content
   * [Demo](#demo)
@@ -16,7 +16,6 @@ Link: [https://carprice01.herokuapp.com/](https://carprice01.herokuapp.com/)
 
 [![](https://i.imgur.com/re4j2oa.png)](https://carprice01.herokuapp.com/)
 
-[![](https://i.imgur.com/p0aeL6c.png)](https://carprice01.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts Car Price.
