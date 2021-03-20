@@ -9,9 +9,9 @@
 
 <body>
 
-    <div style="color:blue">
+    <div style="color:black">
         <form action="{{ url_for('predict')}}" method="post">
-            <h2>Predictive analysis</h2>
+            <h2>Predictive Analysis</h2>
             <h3>Year</h3>
             <input id="first" name="Year" type="number ">
             <h3>What is the Showroom Price?(In lakhs)</h3><br><input id="second" name="Present_Price" required="required">
@@ -33,22 +33,18 @@
             <br><br><button id="sub" type="submit ">Calculate the Selling Price</button>
             <br>
 
-
-
-
         </form>
-
 
 
         <br><br><h3>{{ prediction_text }}<h3>
     </div>
 
 
-
+<!--lightslategray-->
 
     <style>
         body {
-            background-color: lightslategray;
+            background-color:Gray  ;
             text-align: center;
             padding: 0px;
         }
@@ -116,7 +112,7 @@
         
         #sub {
             width: 120px;
-            height: 43px;
+            height: 65px;
             text-align: center;
             border-radius: 14px;
             font-size: 18px;
