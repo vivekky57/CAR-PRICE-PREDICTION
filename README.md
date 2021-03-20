@@ -14,8 +14,9 @@
 ## Demo
 Link: [https://carprice01.herokuapp.com/](https://carprice01.herokuapp.com/)
 
-[![](https://i.imgur.com/re4j2oa.png)](https://carprice01.herokuapp.com/)
+[![](https://i.imgur.com/j3wUqaA.png)](https://carprice01.herokuapp.com/)
 
+[![](https://i.imgur.com/Hc1CXPM.png)](https://carprice01.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts Car Price.
@@ -44,7 +45,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── Procfile
 ├── README.md
 ├── app.py
-├── Untitled.ipynb
+├── Carprice.ipynb
 ├── main.py
 ├── Car data.csv
 ├── random_forest_regression_model.pkl.pkl
