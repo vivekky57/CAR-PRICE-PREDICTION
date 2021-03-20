@@ -1,4 +1,4 @@
-# Flight Fare Prediction: 
+# CAR PRICE Prediction: 
 
 ## Table of Content
   * [Demo](#demo)
@@ -12,14 +12,14 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link: [https://carprice01.herokuapp.com/](https://carprice01.herokuapp.com/)
 
-[![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
+[![](https://i.imgur.com/re4j2oa.png)](https://carprice01.herokuapp.com/)
 
-[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
+[![](https://i.imgur.com/p0aeL6c.png)](https://carprice01.herokuapp.com/)
 
 ## Overview
-This is a Flask web app which predicts fare of Flight ticket.
+This is a Flask web app which predicts Car Price.
 
 ## Motivation
 What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
@@ -33,21 +33,22 @@ pip install -r requirements.txt
 ## Deployement on Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
+[![](https://i.imgur.com/y78rCDz.png)](https://heroku.com)
 
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Directory Tree 
 ```
-├── static 
-│   ├── css
+
 ├── template
 │   ├── home.html
 ├── Procfile
 ├── README.md
 ├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
+├── Untitled.ipynb
+├── main.py
+├── Car data.csv
+├── random_forest_regression_model.pkl.pkl
 ├── requirements.txt
 ```
 
@@ -60,7 +61,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Mandal-21/Flight-Price-Prediction/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/vivekky57/CAR-PRICE-PREDICTION/issues) here by including your search query and the expected result
 
 ## Future Scope
 
